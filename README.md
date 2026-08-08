@@ -112,9 +112,7 @@
 
 ###
 
-<div>
-<h2 data-importer="text" align="middle">Social Media</h2>
-</div>
+
 
 <div align="center">
   <img src="image.jpg" alt="Quantum Coders" width="500" />
