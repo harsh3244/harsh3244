@@ -88,8 +88,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/harsh3244/harsh3244/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/harsh3244/harsh3244/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=harsh3244&show_icons=true&hide_rank=false&include_all_commits=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsh3244&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
