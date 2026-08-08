@@ -116,5 +116,5 @@
 
 
 <div align="center">
-  <img src="image.jpg" alt="Quantum Coders" width="500" />
+  <img src="image.png" alt="Quantum Coders" width="500" />
 </div>
