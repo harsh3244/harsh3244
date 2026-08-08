@@ -94,7 +94,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Social Media</h2>
+<h2 data-importer="text" align="middle">Social Media</h2>
 
 ###
 
