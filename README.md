@@ -11,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">Diploma student in AI/ML @ Government Polytechnic Mumbai<br> Exploring AI Agents, Generative AI & full-stack development<br> Self-taught cybersecurity enthusiast | Linux & Ethical Hacking<br> Python | Machine Learning | GCP | Git<br> Founder @ Quantum Coders | College Ambassador @ Techfest, IIT Bombay</p>
+<p data-importer="text" align="left"> - Diploma student in AI/ML @ Government Polytechnic Mumbai<br> - Exploring AI Agents, Generative AI & full-stack development<br> - Self-taught cybersecurity enthusiast | Linux & Ethical Hacking<br> - Python | Machine Learning | GCP | Git<br> - Founder @ Quantum Coders | College Ambassador @ Techfest, IIT Bombay</p>
 
 ###
 
