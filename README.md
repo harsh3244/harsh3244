@@ -3,7 +3,7 @@
 
 ###
 
-<p data-importer="text" align="center">My name is Harshvardhan Hajgude and I'm a AI/ML Student & Self-Taught Cybersecurity Enthusiast, <br>from Government Polytechnic Mumbai</p>
+<p data-importer="text" align="center">I'm Harshvardhan Hajgude and I'm a AI/ML Student & Self-Taught Cybersecurity Enthusiast, <br>from Government Polytechnic Mumbai</p>
 
 ###
 
